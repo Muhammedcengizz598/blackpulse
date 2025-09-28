@@ -390,7 +390,7 @@ export PYTHONDONTWRITEBYTECODE=1
 
 ```bash
 # Geliştirme için depoyu fork edin
-git clone https://github.com/yourusername/blackpulse.git
+git clone https://github.com/Muhammedcengizz598/blackpulse.git
 cd blackpulse
 
 # Geliştirme bağımlılıklarını kurun
